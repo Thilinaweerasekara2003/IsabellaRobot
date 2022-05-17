@@ -64,7 +64,7 @@ def warn(
             message.reply_text("SARDEGNAs cant be warned.")
         else:
             message.reply_text(
-                "Sardegna triggered an auto warn filter!\n I can't warn Sardegnas but they should avoid abusing this."
+                "Sardegna triggered an auto warn filter!\n I can't warn Sardegnas but they should avoid abusing this"
             )
         return
 
@@ -73,7 +73,7 @@ def warn(
             message.reply_text("Whitelisted users are warn immune.")
         else:
             message.reply_text(
-                "Neptunian triggered an auto warn filter!\nI can't warn Neptunians users but they should avoid "
+                "Neptunian triggered an auto warn filter!\nI can't warn Neptunians users but they should avoid"
                 "abusing this. "
             )
         return
