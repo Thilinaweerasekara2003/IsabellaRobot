@@ -15,7 +15,7 @@
 
 ## 🚔Contact & Support
 
- - [support group ](https://t.me/gangofmafiatm)
+ - [support group](https://t.me/gangofmafiatm)
  - [News Channel ](https://t.me/Isabellaupdate) 
  - [Logs Channel ](https://t.me/isabellalogg)
  - [Network ](https://t.me/gangofmafiatm)
