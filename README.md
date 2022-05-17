@@ -1,5 +1,5 @@
 <img src="https://telegra.ph/file/3480efaf88d04195c488d.jpg" align="right" width="200" height="200"/>
-# [Isabella](t.me.Miss_Isabella_Robot)
+[Isabella](t.me.Miss_Isabella_Robot)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Dank-del/)</br>
@@ -26,7 +26,7 @@ A modular telegram Python bot running on python3 with an sqlalchemy database.
 
 Originally a marie fork - Kigyō has evolved further and was built to be more useful for Anime Chats.
 
-Can be found on telegram as [Kigyō](https://t.me/Miss_Isabella_Robot).
+Can be found on telegram as [Isabella](https://t.me/Miss_Isabella_Robot).
 
 The Support group can be reached out to at [Isabella Support](https://t.me/gangofmafiatm), where you can ask for help setting up your bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available.
 
