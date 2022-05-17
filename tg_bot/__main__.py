@@ -152,15 +152,15 @@ def start(update: Update, context: CallbackContext):  # sourcery no-metrics
                         [
                             InlineKeyboardButton(
                                 text=gs(chat.id, "support_chat_link_btn"),
-                                url='https://t.me/YorktownEagleUnion',
+                                url='https://t.me/gangofmafiatm',
                             ),
                             InlineKeyboardButton(
                                 text=gs(chat.id, "updates_channel_link_btn"),
-                                url="https://t.me/KigyoUpdates",
+                                url="https://t.me/Isabellaupdate",
                             ),
                             InlineKeyboardButton(
                                 text=gs(chat.id, "src_btn"),
-                                url="https://github.com/AnimeKaizoku/EnterpriseALRobot/",
+                                url="https://github.com/Thilinaweerasekara2003/IsabellaRobot",
                             ),
                         ],
                         [
@@ -246,15 +246,15 @@ def start(update: Update, context: CallbackContext):  # sourcery no-metrics
                         [
                             InlineKeyboardButton(
                                 text=gs(chat.id, "support_chat_link_btn"),
-                                url='https://t.me/YorktownEagleUnion',
+                                url='https://t.me/gangofmafiatm',
                             ),
                             InlineKeyboardButton(
                                 text=gs(chat.id, "updates_channel_link_btn"),
-                                url="https://t.me/KigyoUpdates",
+                                url="https://t.me/Isabellaupdate",
                             ),
                             InlineKeyboardButton(
                                 text=gs(chat.id, "src_btn"),
-                                url="https://github.com/Dank-del/EnterpriseALRobot",
+                                url="https://github.com/Thilinaweerasekara2003/IsabellaRobot",
                             ),
                         ],
                         [
@@ -470,7 +470,7 @@ def get_help(update: Update, context: CallbackContext):
             text = "Here is the available help for the *{}* module:\n".format(HELPABLE[module].__mod_name__) + help_text
             help_buttons.append(
                 [InlineKeyboardButton(text="Back", callback_data="help_back"),
-                 InlineKeyboardButton(text='Support', url='https://t.me/YorkTownEagleUnion')]
+                 InlineKeyboardButton(text='Support', url='https://t.me/Gangofmafiatm')]
             )
             send_help(
                 chat.id,
