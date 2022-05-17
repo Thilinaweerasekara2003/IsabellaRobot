@@ -1,7 +1,6 @@
 <img src="https://telegra.ph/file/3480efaf88d04195c488d.jpg" align="right" width="200" height="200"/>
-[Isabella](https://t.me/Miss_Isabella_Robot)
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Dank-del/)</br>
+[Isabella ](https://t.me/Miss_Isabella_Robot)
+
 
 
 ![Python Version](https://img.shields.io/badge/python-3.8-green?style=for-the-badge&logo=appveyor)
