@@ -1,5 +1,4 @@
 <img src="https://telegra.ph/file/3480efaf88d04195c488d.jpg" align="right" width="200" height="200"/>
-[Isabella ](https://t.me/Miss_Isabella_Robot)
 
 
 
